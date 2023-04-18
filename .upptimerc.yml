@@ -12,8 +12,6 @@ sites:
     url: https://bark.gneko.app/ping
   - name: ChatGPT
     url: $SITE_CHATGPT
-  - name: ChatGPT-Azure
-    url: $SITE_CHATGPT_AZURE
 
 status-website:
   cname: status.gneko.dev
