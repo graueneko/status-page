@@ -5,18 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/graueneko.com.ico",
     "slug": "grau-neko-com",
     "status": "up",
-    "uptime": "96.60%",
-    "uptimeDay": "98.23%",
-    "uptimeWeek": "92.29%",
-    "uptimeMonth": "96.60%",
-    "uptimeYear": "96.60%",
+    "uptime": "96.66%",
+    "uptimeDay": "98.94%",
+    "uptimeWeek": "92.39%",
+    "uptimeMonth": "96.66%",
+    "uptimeYear": "96.66%",
     "time": 2460,
     "timeDay": 2426,
-    "timeWeek": 2628,
+    "timeWeek": 2637,
     "timeMonth": 2460,
     "timeYear": 2460,
     "dailyMinutesDown": {
-      "2023-05-09": 10,
       "2023-05-08": 15,
       "2023-05-07": 16,
       "2023-05-03": 400,
@@ -35,9 +34,9 @@
     "url": "https://rrss.gneko.app",
     "icon": "https://icons.duckduckgo.com/ip3/rrss.gneko.app.ico",
     "slug": "fresh-rss",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -46,7 +45,9 @@
     "timeWeek": 1007,
     "timeMonth": 959,
     "timeYear": 959,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-09": 0
+    }
   },
   {
     "name": "RssHub",
