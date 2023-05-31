@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/graueneko.com.ico",
     "slug": "grau-neko-com",
     "status": "up",
-    "uptime": "95.33%",
+    "uptime": "95.34%",
     "uptimeDay": "96.79%",
     "uptimeWeek": "91.13%",
     "uptimeMonth": "93.42%",
-    "uptimeYear": "95.33%",
+    "uptimeYear": "95.34%",
     "time": 3259,
     "timeDay": 3683,
-    "timeWeek": 3542,
-    "timeMonth": 3403,
+    "timeWeek": 3549,
+    "timeMonth": 3396,
     "timeYear": 3259,
     "dailyMinutesDown": {
       "2023-05-30": 47,
@@ -48,7 +48,7 @@
     "time": 1056,
     "timeDay": 906,
     "timeWeek": 1202,
-    "timeMonth": 1114,
+    "timeMonth": 1112,
     "timeYear": 1056,
     "dailyMinutesDown": {
       "2023-05-09": 23
@@ -68,7 +68,7 @@
     "time": 857,
     "timeDay": 793,
     "timeWeek": 986,
-    "timeMonth": 901,
+    "timeMonth": 899,
     "timeYear": 857,
     "dailyMinutesDown": {}
   },
@@ -86,7 +86,7 @@
     "time": 841,
     "timeDay": 701,
     "timeWeek": 902,
-    "timeMonth": 884,
+    "timeMonth": 882,
     "timeYear": 841,
     "dailyMinutesDown": {}
   },
