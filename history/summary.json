@@ -4,7 +4,7 @@
     "url": "https://graueneko.com",
     "icon": "https://icons.duckduckgo.com/ip3/graueneko.com.ico",
     "slug": "grau-neko-com",
-    "status": "up",
+    "status": "down",
     "uptime": "98.93%",
     "uptimeDay": "98.64%",
     "uptimeWeek": "99.11%",
@@ -16,6 +16,7 @@
     "timeMonth": 2115,
     "timeYear": 2563,
     "dailyMinutesDown": {
+      "2023-09-20": 0,
       "2023-09-19": 20,
       "2023-09-16": 34,
       "2023-09-14": 36,
@@ -54,8 +55,7 @@
       "2023-06-06": 216,
       "2023-06-05": 443,
       "2023-06-04": 168,
-      "2023-06-03": 139,
-      "2023-06-02": 16
+      "2023-06-03": 139
     }
   },
   {
@@ -129,11 +129,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-gpt",
     "status": "up",
-    "uptime": "50.30%",
+    "uptime": "50.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "50.30%",
+    "uptimeYear": "50.35%",
     "time": 636,
     "timeDay": 86,
     "timeWeek": 118,
