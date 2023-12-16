@@ -6,15 +6,15 @@
     "slug": "grau-neko-com",
     "status": "up",
     "uptime": "99.40%",
-    "uptimeDay": "98.79%",
+    "uptimeDay": "98.78%",
     "uptimeWeek": "98.99%",
     "uptimeMonth": "99.60%",
     "uptimeYear": "99.40%",
-    "time": 2398,
-    "timeDay": 1767,
+    "time": 2397,
+    "timeDay": 1640,
     "timeWeek": 1843,
     "timeMonth": 1824,
-    "timeYear": 2398,
+    "timeYear": 2397,
     "dailyMinutesDown": {
       "2023-12-16": 17,
       "2023-12-14": 69,
@@ -75,8 +75,7 @@
       "2023-06-11": 85,
       "2023-06-10": 18,
       "2023-06-09": 34,
-      "2023-06-07": 95,
-      "2023-06-06": 18
+      "2023-06-07": 95
     }
   },
   {
@@ -150,11 +149,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-gpt",
     "status": "up",
-    "uptime": "68.21%",
+    "uptime": "68.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "68.21%",
+    "uptimeYear": "68.23%",
     "time": 588,
     "timeDay": 716,
     "timeWeek": 826,
