@@ -4,15 +4,15 @@
     "url": "https://graueneko.com",
     "icon": "https://icons.duckduckgo.com/ip3/graueneko.com.ico",
     "slug": "grau-neko-com",
-    "status": "up",
-    "uptime": "98.99%",
+    "status": "down",
+    "uptime": "99.00%",
     "uptimeDay": "71.22%",
-    "uptimeWeek": "70.09%",
-    "uptimeMonth": "91.52%",
-    "uptimeYear": "98.99%",
+    "uptimeWeek": "70.24%",
+    "uptimeMonth": "91.58%",
+    "uptimeYear": "99.00%",
     "time": 2234,
-    "timeDay": 1686,
-    "timeWeek": 1768,
+    "timeDay": 1685,
+    "timeWeek": 1769,
     "timeMonth": 1865,
     "timeYear": 2234,
     "dailyMinutesDown": {
@@ -27,7 +27,7 @@
       "2023-12-22": 153,
       "2023-12-21": 174,
       "2023-12-20": 205,
-      "2023-12-19": 68
+      "2023-12-19": 44
     }
   },
   {
