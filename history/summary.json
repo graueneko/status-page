@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/graueneko.com.ico",
     "slug": "grau-neko-com",
     "status": "down",
-    "uptime": "61.79%",
+    "uptime": "61.64%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "55.72%",
+    "uptimeYear": "55.45%",
     "time": 1879,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1890,
+    "timeYear": 1888,
     "dailyMinutesDown": {
-      "2024-06-14": 55,
+      "2024-06-15": 56,
+      "2024-06-14": 1440,
       "2024-06-13": 1440,
       "2024-06-12": 1440,
       "2024-06-11": 1440,
@@ -197,16 +198,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1048,
-    "timeDay": 707,
-    "timeWeek": 938,
-    "timeMonth": 944,
-    "timeYear": 1047,
+    "time": 1047,
+    "timeDay": 853,
+    "timeWeek": 915,
+    "timeMonth": 943,
+    "timeYear": 1046,
     "dailyMinutesDown": {
       "2024-05-06": 23,
       "2024-04-22": 25,
-      "2024-02-01": 20,
-      "2023-06-16": 76
+      "2024-02-01": 20
     }
   },
   {
@@ -220,16 +220,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 790,
-    "timeDay": 583,
-    "timeWeek": 765,
-    "timeMonth": 732,
-    "timeYear": 777,
+    "time": 789,
+    "timeDay": 563,
+    "timeWeek": 743,
+    "timeMonth": 727,
+    "timeYear": 776,
     "dailyMinutesDown": {
       "2024-05-06": 23,
       "2024-04-22": 25,
-      "2024-02-01": 19,
-      "2023-06-16": 23
+      "2024-02-01": 19
     }
   },
   {
@@ -244,14 +243,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 769,
-    "timeDay": 889,
-    "timeWeek": 742,
-    "timeMonth": 720,
-    "timeYear": 757,
+    "timeDay": 713,
+    "timeWeek": 743,
+    "timeMonth": 719,
+    "timeYear": 756,
     "dailyMinutesDown": {
       "2024-05-06": 23,
-      "2024-02-01": 17,
-      "2023-06-16": 23
+      "2024-02-01": 17
     }
   },
   {
@@ -260,16 +258,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-gpt",
     "status": "up",
-    "uptime": "81.79%",
+    "uptime": "81.83%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.64%",
-    "time": 559,
-    "timeDay": 263,
-    "timeWeek": 242,
-    "timeMonth": 262,
-    "timeYear": 514,
+    "uptimeYear": "82.92%",
+    "time": 558,
+    "timeDay": 93,
+    "timeWeek": 237,
+    "timeMonth": 256,
+    "timeYear": 512,
     "dailyMinutesDown": {
       "2024-02-01": 16,
       "2023-08-18": 21,
@@ -333,8 +331,7 @@
       "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
-      "2023-06-17": 1440,
-      "2023-06-16": 1440
+      "2023-06-17": 1440
     }
   }
 ]
