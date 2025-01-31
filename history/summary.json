@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/graueneko.com.ico",
     "slug": "grau-neko-com",
     "status": "down",
-    "uptime": "40.02%",
+    "uptime": "39.96%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -14,9 +14,10 @@
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1928,
+    "timeYear": 1934,
     "dailyMinutesDown": {
-      "2025-01-30": 63,
+      "2025-01-31": 65,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -379,8 +380,7 @@
       "2024-02-05": 1440,
       "2024-02-04": 1440,
       "2024-02-03": 1440,
-      "2024-02-02": 1440,
-      "2024-02-01": 1440
+      "2024-02-02": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rrss.gneko.app.ico",
     "slug": "fresh-rss",
     "status": "down",
-    "uptime": "76.71%",
+    "uptime": "76.59%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.36%",
-    "time": 925,
+    "uptimeYear": "58.08%",
+    "time": 924,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 871,
     "dailyMinutesDown": {
-      "2025-01-30": 63,
+      "2025-01-31": 65,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -555,8 +556,7 @@
       "2024-08-31": 1108,
       "2024-07-20": 184,
       "2024-05-06": 23,
-      "2024-04-22": 25,
-      "2024-02-01": 20
+      "2024-04-22": 25
     }
   },
   {
@@ -565,18 +565,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/rsshub.gneko.app.ico",
     "slug": "rss-hub",
     "status": "down",
-    "uptime": "76.72%",
+    "uptime": "76.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.36%",
+    "uptimeYear": "58.09%",
     "time": 730,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 703,
     "dailyMinutesDown": {
-      "2025-01-30": 64,
+      "2025-01-31": 65,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -731,8 +732,7 @@
       "2024-08-31": 1108,
       "2024-07-20": 173,
       "2024-05-06": 23,
-      "2024-04-22": 25,
-      "2024-02-01": 19
+      "2024-04-22": 25
     }
   },
   {
@@ -741,18 +741,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/bark.gneko.app.ico",
     "slug": "bark",
     "status": "down",
-    "uptime": "76.72%",
+    "uptime": "76.60%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.37%",
-    "time": 697,
+    "uptimeYear": "58.09%",
+    "time": 696,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 655,
+    "timeYear": 654,
     "dailyMinutesDown": {
-      "2025-01-30": 64,
+      "2025-01-31": 65,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -906,8 +907,7 @@
       "2024-09-01": 1440,
       "2024-08-31": 1108,
       "2024-07-20": 173,
-      "2024-05-06": 23,
-      "2024-02-01": 17
+      "2024-05-06": 23
     }
   },
   {
@@ -916,18 +916,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "chat-gpt",
     "status": "down",
-    "uptime": "64.94%",
+    "uptime": "64.84%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "58.37%",
-    "time": 452,
+    "uptimeYear": "58.10%",
+    "time": 453,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 355,
+    "timeYear": 354,
     "dailyMinutesDown": {
-      "2025-01-30": 64,
+      "2025-01-31": 65,
+      "2025-01-30": 1440,
       "2025-01-29": 1440,
       "2025-01-28": 1440,
       "2025-01-27": 1440,
@@ -1080,8 +1081,7 @@
       "2024-09-02": 1440,
       "2024-09-01": 1440,
       "2024-08-31": 1108,
-      "2024-07-20": 173,
-      "2024-02-01": 16
+      "2024-07-20": 173
     }
   }
 ]
